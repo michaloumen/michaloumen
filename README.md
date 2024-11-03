@@ -13,8 +13,8 @@
 ###
 
 <p align="left">
-  - 🔭 I'm currently working as a fullstack developer.<br>
-  - 📚 I'm studying Systems Analysis and Development at university.<br>
+  - 🔭 I work as a fullstack developer.<br>
+  - 📚 I am studying for a degree in Systems Analysis and Development.<br>
   - ⚡ In my free time, I play the piano and enjoy mountain biking.
 </p>
 
