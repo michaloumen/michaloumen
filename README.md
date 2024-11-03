@@ -15,7 +15,8 @@
 <p align="left">
   - 🔭 I work as a fullstack developer.<br>
   - 📚 I am studying for a degree in Systems Analysis and Development.<br>
-  - ⚡ In my free time, I play the piano and enjoy mountain biking.
+  - ⚡ In my free time, I play the piano and enjoy mountain biking.<br>
+  - 👋 Feel free to say hi on [LinkedIn](https://www.linkedin.com/in/michaloumen/).
 </p>
 
 ###
