@@ -19,7 +19,7 @@
 ###
 
 <p align="left">
-  - 🔭 I work as a fullstack developer.<br>
+  - 🔭 Working as a fullstack developer since May 2021.<br>
   - 📚 I am studying for a degree in Systems Analysis and Development.<br>
   - ⚡ In my free time, I play the piano and enjoy mountain biking.<br>
 </p>
